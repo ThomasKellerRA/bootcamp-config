@@ -25,10 +25,10 @@ bootstrap:
               - cdf-group: cdf:all:read
                 idp-source-id: e212cca8-d0bb-428f-857a-46908d181645
                 idp-source-name: bootcamp-46-test-all-read
-              - cdf-group: cdf:uc-001-oee:owner
+              - cdf-group: cdf:uc:001:oee:owner
                 idp-source-id: 30e5ef37-f3c8-45bb-a0ba-72b4c48b301b
                 idp-source-name: bootcamp-46-test-uc-001-oee-owner
-              - cdf-group: cdf:uc-001-oee:read
+              - cdf-group: cdf:uc:001:oee:read
                 idp-source-id: a804bd4f-d104-4214-874d-9a8ba98acb0e
                 idp-source-name: bootcamp-46-test-uc-001-oee-read
         - cdf-project: cdf-bootcamp-46-prod
@@ -42,10 +42,10 @@ bootstrap:
               - cdf-group: cdf:all:read
                 idp-source-id: fc5ed986-568e-4cf4-af15-cf6af76dcbd3
                 idp-source-name: bootcamp-46-prod-all-read
-              - cdf-group: cdf:uc-001-oee:owner
+              - cdf-group: cdf:uc:001:oee:owner
                 idp-source-id: d5a082b5-5b7b-41f6-9faa-93d09a589245
                 idp-source-name: bootcamp-46-test-uc-001-oee-owner
-              - cdf-group: cdf:uc-001-oee:read
+              - cdf-group: cdf:uc:001:oee:read
                 idp-source-id: 124955eb-ff5d-4ff7-bf68-765bd5d731c4
                 idp-source-name: bootcamp-46-test-uc-001-oee-read
 
